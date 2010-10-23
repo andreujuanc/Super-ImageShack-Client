@@ -1,0 +1,29 @@
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.Properties.Resources.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.DataControl.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.OptionsForm.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.mainForm.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.OptionsForm.en.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.OptionsForm.es.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.MyAboutBox.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Super ImageShack Client.exe
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Super ImageShack Client.pdb
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\en\Super ImageShack Client.resources.dll
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\es\Super ImageShack Client.resources.dll
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\en\Super ImageShack Client.resources.dll
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\es\Super ImageShack Client.resources.dll
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\Super ImageShack Client.exe
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\Super ImageShack Client.pdb
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Super ImageShack Client.exe.config
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.mainForm.es.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Super ImageShack Client.exe.manifest
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Super ImageShack Client.application
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\Super ImageShack Client.exe.manifest
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\Super ImageShack Client.application
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Help\en\Content.xml
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\bin\Debug\Help\en\Index.htm
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.Forms.HelpForm.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.Resource.resources
+C:\Users\Juan Carloa\Documents\Visual Studio 2010\Projects\SuperImageShack\SuperImageShack\SuperImageShack\obj\x86\Debug\SuperImageShack.MainForm.en.resources

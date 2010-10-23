@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Content>
+  <File Path="Index.htm#intro" Title ="Introduction">
+    <Node Path="Index.htm#about" Title ="About the author" />
+    <Node Path="Index.htm#contributors" Title ="Contributors" />
+    <Node Path="Index.htm#license" Title ="License" />    
+  </File>
+  <File Path="BasicUsage.htm" Title ="Basic Usage" >
+    <Node Path="#take" Title ="Taking Screenshots" />
+    <Node Path="#upload" Title ="Uploading" />
+    <Node Path="#hotkeys" Title ="Using Hotkeys" />
+  </File>
+  <File Path="Advanced.htm" Title ="Advanced" >
+    <Node Path="#hotkeys" Title ="Custom hot keys" />
+    <Node Path="#proxy" Title ="Using Proxy" />
+    <Node Path="#login" Title ="Login into ImageShack" />
+  </File>
+</Content>
