@@ -8,6 +8,8 @@ using System.Windows.Forms;
 using System.Globalization;
 using System.Xml;
 
+#define LINUX
+
 namespace SuperImageShack.Forms
 {
     public partial class HelpForm : Form
@@ -23,7 +25,12 @@ namespace SuperImageShack.Forms
             try
             {
                 string culture = (CultureInfo.CurrentUICulture.Parent.Name != "") ? CultureInfo.CurrentUICulture.Parent.Name : CultureInfo.CurrentUICulture.Name;
-                _base = "file://"+ Application.StartupPath + "\\Help\\" + culture + "\\";
+                
+#if LINUX
+   				_base = "file://"+ Application.StartupPath + "\\Help\\" + culture + "\\";
+#else
+				_base = "file://"+ Application.StartupPath + "/Help/" + culture + "/";
+#endif
 							
                 doc.Load(_base + "Content.xml");
                 treeView1.ImageList = m_iconsSet;
