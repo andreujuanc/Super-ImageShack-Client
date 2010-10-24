@@ -24,9 +24,7 @@ namespace SuperImageShack.Forms
             {
                 string culture = (CultureInfo.CurrentUICulture.Parent.Name != "") ? CultureInfo.CurrentUICulture.Parent.Name : CultureInfo.CurrentUICulture.Name;
                 _base = "file://"+ Application.StartupPath + "\\Help\\" + culture + "\\";
-				
-				//Linux
-				
+							
                 doc.Load(_base + "Content.xml");
                 treeView1.ImageList = m_iconsSet;
 				
