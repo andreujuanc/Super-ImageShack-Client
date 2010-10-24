@@ -27,6 +27,7 @@ namespace SuperImageShack.Forms
                 doc.Load(_base + "Content.xml");
                 treeView1.ImageList = m_iconsSet;
 				
+				//Testing
                 
                 CreateNodes(doc.DocumentElement.ChildNodes, treeView1.Nodes);
             }
