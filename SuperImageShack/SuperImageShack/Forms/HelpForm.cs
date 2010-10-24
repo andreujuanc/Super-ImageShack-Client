@@ -26,6 +26,7 @@ namespace SuperImageShack.Forms
                 _base = "file://"+ Application.StartupPath + "\\Help\\" + culture + "\\";
                 doc.Load(_base + "Content.xml");
                 treeView1.ImageList = m_iconsSet;
+				
                 
                 CreateNodes(doc.DocumentElement.ChildNodes, treeView1.Nodes);
             }
